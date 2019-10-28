@@ -1,0 +1,24 @@
+<package>
+	<id>com.sull.sl1.2_iphoneos-arm</id>
+	<name>Package</name>
+	<version>1.2-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>7.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>
+A very nice tweak that when one starts with the terminal commands one of the first is always ls and when one is conjunct a sl train appears.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
