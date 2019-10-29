@@ -4,7 +4,7 @@
 	<version>1.2</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
+			<maxiOS>12.0</maxiOS>
 			<otherVersions>12.0</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -16,9 +16,20 @@
 		<description>
 A very nice tweak that when one starts with the terminal commands one of the first is always ls and when one is conjunct a sl train appears.</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's sl!</description>
+			<image>sl.jpg</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
-	<links></links>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
 </package>
