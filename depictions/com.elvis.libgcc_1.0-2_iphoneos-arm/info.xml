@@ -1,0 +1,29 @@
+<package>
+	<id>com.elvis.libgcc_1.0-2_iphoneos-arm</id>
+	<name>libgcc_1.0-2_iphoneos-arm</name>
+	<version>1.0-2</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.0</maxiOS>
+			<otherVersions>13.0</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>
+libgcc for gcc compiler!</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/ClarosElvis</url>
+		
+		</link>
+	</links>
+</package>

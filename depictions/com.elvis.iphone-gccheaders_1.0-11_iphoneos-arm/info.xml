@@ -1,0 +1,35 @@
+<package>
+	<id>com.elvis.iphone-gccheaders_1.0-11_iphoneos-arm</id>
+	<name>iphone-gccheaders</name>
+	<version>1.0-11</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.0</maxiOS>
+			<otherVersions>14.0</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>
+Fake gcc headers!</description>
+	</descriptionlist>
+	<!--screenshots>
+		<screenshot>
+			<description>Fake gcc headers!</description>
+			<image></image>
+		</screenshot>
+	</screenshots-->
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/ClarosElvis</url>
+		
+		</link>
+	</links>
+</package>

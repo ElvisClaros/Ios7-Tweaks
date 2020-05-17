@@ -1,0 +1,39 @@
+<package>
+	<id>com.elvis.matteterm</id>
+	<name>matteterm</name>
+	<version>1.0beta1.4.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.0</maxiOS>
+			<otherVersions>12.0</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>
+Una terminal muy lindo y con muchas funciones .</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>una cactura!</description>
+			<image>mertterterm1.jpg</image>
+		</screenshot>
+        <screenshot>
+			<description>otra cactura!</description>
+			<image>mertterterm.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://www.twitter.com/ClarosElvis</url>
+			
+		</link>
+	</links>
+</package>
